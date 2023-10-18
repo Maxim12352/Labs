@@ -1,0 +1,147 @@
+{
+    "students": [
+        {
+            "last_name": "Ivanov",
+            "first_name": "Petro",
+            "middle_name": "Oleksandrovich",
+            "birth_date": {
+                "year": 2005,
+                "month": 3,
+                "day": 15
+            },
+            "gender": "male"
+        },
+        {
+            "last_name": "Petrova",
+            "first_name": "Olena",
+            "middle_name": "Ihorivna",
+            "birth_date": {
+                "year": 2006,
+                "month": 5,
+                "day": 10
+            },
+            "gender": "female"
+        },
+        {
+            "last_name": "Sydorenko",
+            "first_name": "Andriy",
+            "middle_name": "Vasylovych",
+            "birth_date": {
+                "year": 2005,
+                "month": 4,
+                "day": 5
+            },
+            "gender": "male"
+        },
+        {
+            "last_name": "Kovalenko",
+            "first_name": "Mariya",
+            "middle_name": "Petrovna",
+            "birth_date": {
+                "year": 2006,
+                "month": 3,
+                "day": 20
+            },
+            "gender": "female"
+        },
+        {
+            "last_name": "Pavlenko",
+            "first_name": "Oleksiy",
+            "middle_name": "Ivanovych",
+            "birth_date": {
+                "year": 2005,
+                "month": 3,
+                "day": 25
+            },
+            "gender": "male"
+        },
+        {
+            "last_name": "Melnik",
+            "first_name": "Sofia",
+            "middle_name": "Mykhailivna",
+            "birth_date": {
+                "year": 2006,
+                "month": 5,
+                "day": 5
+            },
+            "gender": "female"
+        },
+        {
+            "last_name": "Boiko",
+            "first_name": "Vasyl",
+            "middle_name": "Petrovich",
+            "birth_date": {
+                "year": 2005,
+                "month": 5,
+                "day": 30
+            },
+            "gender": "male"
+        },
+        {
+            "last_name": "Kozlova",
+            "first_name": "Natalia",
+            "middle_name": "Andriyivna",
+            "birth_date": {
+                "year": 2006,
+                "month": 3,
+                "day": 10
+            },
+            "gender": "female"
+        },
+        {
+            "last_name": "Honchar",
+            "first_name": "Dmytro",
+            "middle_name": "Maksymovych",
+            "birth_date": {
+                "year": 2005,
+                "month": 4,
+                "day": 15
+            },
+            "gender": "male"
+        },
+        {
+            "last_name": "Shevchenko",
+            "first_name": "Kateryna",
+            "middle_name": "Olehivna",
+            "birth_date": {
+                "year": 2006,
+                "month": 4,
+                "day": 25
+            },
+            "gender": "female"
+        },
+        {
+            "last_name": "New",
+            "first_name": "Student",
+            "middle_name": "MiddleName3",
+            "birth_date": {
+                "year": 2002,
+                "month": 6,
+                "day": 25
+            },
+            "gender": "male"
+        },
+        {
+            "last_name": "New",
+            "first_name": "Student",
+            "middle_name": "MiddleName3",
+            "birth_date": {
+                "year": 2002,
+                "month": 6,
+                "day": 25
+            },
+            "gender": "male"
+        },
+        {
+            "last_name": "New",
+            "first_name": "Student",
+            "middle_name": "MiddleName3",
+            "birth_date": {
+                "year": 2002,
+                "month": 6,
+                "day": 25
+            },
+            "gender": "male"
+        }
+    ]
+}
